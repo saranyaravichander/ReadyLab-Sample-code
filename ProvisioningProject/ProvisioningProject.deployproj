@@ -30,12 +30,5 @@
     </None>
     <Content Include="Deploy-AzureResourceGroup.ps1" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Read-D2C-Webjob\Read-D2C-Webjob.csproj">
-      <Targets>Build;Package</Targets>
-      <AdditionalProperties>PackageLocation=..\ProvisioningProject\$(ProjectReferencesOutputPath)\Read-D2C-Webjob\package.zip</AdditionalProperties>
-      <IncludeFilePath>$(ProjectReferencesOutputPath)\Read-D2C-Webjob\package.zip</IncludeFilePath>
-    </ProjectReference>
-  </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
