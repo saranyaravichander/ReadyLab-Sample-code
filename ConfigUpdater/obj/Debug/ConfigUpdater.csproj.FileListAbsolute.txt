@@ -1,0 +1,11 @@
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\ConfigUpdater.exe.config
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\ConfigUpdater.exe
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\ConfigUpdater.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\obj\Debug\ConfigUpdater.csprojAssemblyReference.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\obj\Debug\ConfigUpdater.csproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\obj\Debug\ConfigUpdater.csproj.CopyComplete
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\obj\Debug\ConfigUpdater.exe
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ConfigUpdater\obj\Debug\ConfigUpdater.pdb

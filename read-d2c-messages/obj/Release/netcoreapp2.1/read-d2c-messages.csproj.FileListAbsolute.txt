@@ -1,0 +1,11 @@
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\Settings.job
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\read-d2c-messages.deps.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\read-d2c-messages.runtimeconfig.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\read-d2c-messages.runtimeconfig.dev.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Release\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Release\netcoreapp2.1\read-d2c-messages.csproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Release\netcoreapp2.1\read-d2c-messages.AssemblyInfoInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Release\netcoreapp2.1\read-d2c-messages.AssemblyInfo.cs
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Release\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Release\netcoreapp2.1\read-d2c-messages.pdb

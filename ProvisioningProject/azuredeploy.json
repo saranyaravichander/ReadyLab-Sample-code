@@ -1,0 +1,105 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hubName": {
+      "type": "string"
+    },
+    "storageName": {
+      "type": "string"
+    },
+    "appServiceName": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "appServicePlanName": {
+      "type": "string"
+    },
+    "resourceGroupName": {
+      "type": "string"
+    }
+  },
+  "variables": {},
+  "resources": [
+    {
+      "apiVersion": "2016-02-03",
+      "type": "Microsoft.Devices/IotHubs",
+      "name": "[parameters('hubName')]",
+      "location": "East US",
+      "sku": {
+        "name": "S1",
+        "tier": "Standard",
+        "capacity": 1
+      },
+      "properties": {
+        "location": "East US"
+      }
+    },
+    {
+      "name": "[parameters('storageName')]",
+      "type": "Microsoft.Storage/storageAccounts",
+      "apiVersion": "2018-02-01",
+      "location": "[parameters('location')]",
+      "kind": "StorageV2",
+      "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+      },
+      "properties": {
+        "accessTier": "Hot"
+      },
+      "resources": [
+        {
+          "name": "[concat('default/', 'iothuboutput')]",
+          "type": "blobServices/containers",
+          "apiVersion": "2018-03-01-preview",
+          "dependsOn": [
+            "[parameters('storageName')]"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sar123apphostplan",
+      "type": "Microsoft.Web/serverfarms",
+      "location": "[resourceGroup().location]",
+      "apiVersion": "2015-08-01",
+      "sku": {
+        "name": "S1"
+      },
+      "dependsOn": [],
+      "tags": {
+        "displayName": "appServicePlan"
+      },
+      "properties": {
+        "name": "sar123apphostplan",
+        "numberOfWorkers": 1
+      }
+    },
+    {
+      "name": "[parameters('appServiceName')]",
+      "type": "Microsoft.Web/sites",
+      "location": "[resourceGroup().location]",
+      "apiVersion": "2015-08-01",
+      "dependsOn": [
+        "[resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan')]"
+      ],
+      "tags": {
+        "[concat('hidden-related:', resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan'))]": "Resource",
+        "displayName": "webApp"
+      },
+      "properties": {
+        "name": "[parameters('appServiceName')]",
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan')]"
+      },
+      "resources": [
+        
+        
+      ]
+    }
+  ],
+
+      "outputs": {}
+    }

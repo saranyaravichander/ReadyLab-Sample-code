@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hubName": {
+      "value": "iothubsar1234"
+    },
+    "storageName": {
+      "value": "storagesar1234"
+    },
+    "appServiceName": {
+      "value": "webjobsar1234"
+    },
+    "location": {
+      "value": "East US"
+    },
+    "appServicePlanName": {
+      "value": "appserviceplansar1234"
+    },
+    "resourceGroupName": {
+      "value": "labrgsar1234"
+    }
+  }
+}

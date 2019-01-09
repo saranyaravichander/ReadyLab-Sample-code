@@ -1,0 +1,2 @@
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ProvisioningProject\obj\Debug\ProvisioningProject.deployproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\ProvisioningProject\obj\Debug\ProvisioningProject.deployprojAssemblyReference.cache
