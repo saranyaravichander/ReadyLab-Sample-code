@@ -62,3 +62,5 @@ C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-i
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\Read-D2C-Webjob\bin\Debug\net472\System.Reflection.TypeExtensions.dll
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\Read-D2C-Webjob\obj\Debug\net472\Read-D2C-Webjob.exe
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\Read-D2C-Webjob\obj\Debug\net472\Read-D2C-Webjob.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\Read-D2C-Webjob\bin\Debug\net472\Settings.job
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\Read-D2C-Webjob\obj\Debug\net472\Read-D2C-Webjob.csprojAssemblyReference.cache

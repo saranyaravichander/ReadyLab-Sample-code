@@ -216,6 +216,15 @@
           "lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {}
         }
       },
+      "Microsoft.Web.WebJobs.Publish/2.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "build": {
+          "build/Microsoft.Web.WebJobs.Publish.targets": {}
+        }
+      },
       "Microsoft.WindowsAzure.ConfigurationManager/3.2.1": {
         "type": "package",
         "compile": {
@@ -742,6 +751,15 @@
         "runtime": {
           "lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll": {},
           "lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {}
+        }
+      },
+      "Microsoft.Web.WebJobs.Publish/2.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System"
+        ],
+        "build": {
+          "build/Microsoft.Web.WebJobs.Publish.targets": {}
         }
       },
       "Microsoft.WindowsAzure.ConfigurationManager/3.2.1": {
@@ -1320,6 +1338,22 @@
         "lib/portable-net45+win/Microsoft.IdentityModel.Clients.ActiveDirectory.xml",
         "microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512",
         "microsoft.identitymodel.clients.activedirectory.nuspec"
+      ]
+    },
+    "Microsoft.Web.WebJobs.Publish/2.0.0": {
+      "sha512": "OUKrwywlB2Mqgtm4tLYsZSncK5iaD83En/7Kx7p8AB0hxtqOxPPu+V5KunzLbUQDY0S79ngPJbTwpfHfNFw8Hg==",
+      "type": "package",
+      "path": "microsoft.web.webjobs.publish/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.Web.WebJobs.Publish.Tasks.dll",
+        "build/Microsoft.Web.WebJobs.Publish.targets",
+        "build/Newtonsoft.Json.dll",
+        "build/webjobs.console.targets",
+        "build/webjobs.wap.targets",
+        "microsoft.web.webjobs.publish.2.0.0.nupkg.sha512",
+        "microsoft.web.webjobs.publish.nuspec"
       ]
     },
     "Microsoft.WindowsAzure.ConfigurationManager/3.2.1": {
@@ -2094,6 +2128,7 @@
       "Microsoft.Data.Edm >= 5.8.3",
       "Microsoft.Data.OData >= 5.8.3",
       "Microsoft.Data.Services.Client >= 5.8.3",
+      "Microsoft.Web.WebJobs.Publish >= 2.0.0",
       "Microsoft.WindowsAzure.ConfigurationManager >= 3.2.1",
       "Newtonsoft.Json >= 11.0.1",
       "System.Spatial >= 5.8.3",
@@ -2168,6 +2203,10 @@
           "Microsoft.Data.Services.Client": {
             "target": "Package",
             "version": "[5.8.3, )"
+          },
+          "Microsoft.Web.WebJobs.Publish": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.WindowsAzure.ConfigurationManager": {
             "target": "Package",

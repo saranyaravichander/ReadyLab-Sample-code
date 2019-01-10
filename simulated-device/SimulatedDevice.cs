@@ -19,7 +19,7 @@ namespace simulated_device
         // The device connection string to authenticate the device with your IoT hub.
         // Using the Azure CLI:
         // az iot hub device-identity show-connection-string --hub-name {YourIoTHubName} --device-id MyDotnetDevice --output table
-        private readonly static string s_connectionString = "{Your device connection string here}";
+        private readonly static string s_connectionString = "HostName=iothubsar1234.azure-devices.net;DeviceId=Car1;SharedAccessKey=a3azHCCULU91AbhGvn2qklTrWuFsu5b5fo318lINDeI=";
 
         // Async method to send simulated telemetry
         private static async void SendDeviceToCloudMessagesAsync()
@@ -57,7 +57,6 @@ namespace simulated_device
         private static void Main(string[] args)
         {
             Console.WriteLine("IoT Hub Quickstarts #1 - Simulated device. Ctrl-C to exit.\n");
-
             // Connect to the IoT hub using the MQTT protocol
             s_deviceClient = DeviceClient.CreateFromConnectionString(s_connectionString, TransportType.Mqtt);
             SendDeviceToCloudMessagesAsync();
