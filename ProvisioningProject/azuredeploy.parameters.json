@@ -19,6 +19,12 @@
     },
     "resourceGroupName": {
       "value": "labrgsartesttest"
+    },
+    "apphostplan": {
+      "value": "labrgsartesttest"
+    //},
+    //"automationAccountName": {
+    //  "value": "automationAccountName"
     }
   }
 }

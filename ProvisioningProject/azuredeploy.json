@@ -19,6 +19,12 @@
     },
     "resourceGroupName": {
       "type": "string"
+    },
+    "apphostplan": {
+      "type": "string"
+    //},
+    //"automationAccountName": {
+    //  "type": "string"
     }
   },
   "variables": {},
@@ -62,7 +68,7 @@
       ]
     },
     {
-      "name": "sar123apphostplan",
+      "name": "[parameters('apphostplan')]",
       "type": "Microsoft.Web/serverfarms",
       "location": "[resourceGroup().location]",
       "apiVersion": "2015-08-01",
@@ -74,7 +80,7 @@
         "displayName": "appServicePlan"
       },
       "properties": {
-        "name": "sar123apphostplan",
+        "name": "[parameters('apphostplan')]",
         "numberOfWorkers": 1
       }
     },
@@ -84,20 +90,25 @@
       "location": "[resourceGroup().location]",
       "apiVersion": "2015-08-01",
       "dependsOn": [
-        "[resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan')]"
+        "[resourceId('Microsoft.Web/serverfarms', parameters('apphostplan'))]"
       ],
-      "tags": {
-        "[concat('hidden-related:', resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan'))]": "Resource",
-        "displayName": "webApp"
-      },
+      "tags": {},
       "properties": {
         "name": "[parameters('appServiceName')]",
-        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', 'sar123apphostplan')]"
+        "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('apphostplan'))]"
       },
       "resources": [
-        
-        
       ]
+    //},
+    //{
+    //  "type": "Microsoft.Automation/automationAccounts",
+    //  "name": "[parameters('automationAccountName')]",
+    //  "apiVersion": "2015-10-31",
+    //  "location": "[resourceGroup().location]",
+    //  "tags": {},
+    //  "scale": null,
+    //  "properties": {},
+    //  "dependsOn": []
     }
   ],
 

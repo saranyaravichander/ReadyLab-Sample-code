@@ -26,6 +26,7 @@ namespace ConfigUpdater
                 jsonObj["parameters"]["appServiceName"]["value"] = "webjob" + uniqueValue;
                 jsonObj["parameters"]["appServicePlanName"]["value"] = "appserviceplan" + uniqueValue;
                 jsonObj["parameters"]["resourceGroupName"]["value"] = "labrg" + uniqueValue;
+                jsonObj["parameters"]["apphostplan"]["value"] = "apphostplan" + uniqueValue;
                 string output = Newtonsoft.Json.JsonConvert.SerializeObject(jsonObj, Newtonsoft.Json.Formatting.Indented);
                 File.WriteAllText(@"..\..\..\ProvisioningProject\azuredeploy.parameters.json", output);
             }
