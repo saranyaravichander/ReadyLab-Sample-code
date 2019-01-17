@@ -3,22 +3,25 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hubName": {
-      "value": "iothubsar1234"
+      "value": "iothub-sartest5"
     },
     "storageName": {
-      "value": "storagesar1234"
+      "value": "storagesartest5"
     },
     "appServiceName": {
-      "value": "webjobsar1234"
+      "value": "function-sartest5"
     },
     "location": {
       "value": "East US"
     },
     "appServicePlanName": {
-      "value": "appserviceplansar1234"
+      "value": "appserviceplan-sartest5"
     },
     "resourceGroupName": {
-      "value": "labrgsar1234"
+      "value": "labrg-sartest5"
+    },
+    "apphostplan": {
+      "value": "apphostplan-sartest5"
     }
   }
 }

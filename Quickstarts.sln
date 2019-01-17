@@ -13,11 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigUpdater", "ConfigUpda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read-D2C-Func", "Read-D2C-Func\Read-D2C-Func.csproj", "{CB5B111C-7430-4C60-BEE5-095F26F6A242}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutomationRunbooks", "AutomationRunbooks", "{00C20A27-A2E3-4D1F-8D72-3BA174947BAF}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\ReportNamingConvention.ps1 = ..\..\..\..\ReportNamingConvention.ps1
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
