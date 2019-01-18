@@ -1,0 +1,12 @@
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\bin\Debug\netstandard1.3\CommentAnalyzer.deps.json
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\bin\Debug\netstandard1.3\CommentAnalyzer.dll
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\bin\Debug\netstandard1.3\CommentAnalyzer.pdb
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.Resources.resources
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.csproj.GenerateResource.cache
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.AssemblyInfo.cs
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.dll
+C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.pdb
