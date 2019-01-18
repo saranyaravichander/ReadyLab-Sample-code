@@ -7,7 +7,7 @@ Are you having the nightmare of reviewing and maintaining a large Enterprise App
 In this lab we are going to see 4 steps that can help us deliver code with good quality, consistency and reduce redundant manual effort during development.
 
 The 4 steps are : 
-1. Leveraging the code-generation capability of Roslyn to inject custom code and documentation and saved a lot of development effort!
+1. Leveraging the on-the-fly code analysis capability of Roslyn to detect vulnerabilitis while developing right in your IDE and further leverage its code-generation capability of Roslyn to inject custom code and documentation and saved a lot of development effort!
 
 2. Integrating static code analyzers in CI/CD pipeline
 
@@ -25,6 +25,14 @@ The 4 steps are :
 5. Build and execute the ConfigUpdater project. This will update the names of the resources in ARM template.
 
 ## Observe and Run custom code analyzers 
+1. Adding Analyzers to the Project
+  i. Open the CustomAnalyzers>Analyzer DLLs Folder
+  ii. Add a reference to the DLL in any of the project in the open Quickstarts.sln where you would like to test it out
+Alternatively, 
+  i. Open the CustomAnalyzers>Analyser VSIXs Folder
+  ii. Double click on the VSIX you would like to try out, this would open the installer and directly install the Analyzer in your IDE     for all projects or solutions you would work on.
+
+2. Open the CustomAnalyzers Folder
 
 ## Integrate static code analyzers in Azure DevOps CI/CD Pipeline
 
