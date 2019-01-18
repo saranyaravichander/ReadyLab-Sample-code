@@ -1,0 +1,12 @@
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.deps.json
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.dll
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.pdb
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.Resources.resources
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.GenerateResource.cache
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfo.cs
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.dll
+C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.pdb
