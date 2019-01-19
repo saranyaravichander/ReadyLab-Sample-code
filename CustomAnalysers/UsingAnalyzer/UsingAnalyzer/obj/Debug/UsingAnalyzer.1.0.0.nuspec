@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\tools\install.ps1" target="tools\install.ps1" />
-    <file src="C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+    <file src="D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\tools\install.ps1" target="tools\install.ps1" />
+    <file src="D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\tools\uninstall.ps1" target="tools\uninstall.ps1" />
   </files>
 </package>

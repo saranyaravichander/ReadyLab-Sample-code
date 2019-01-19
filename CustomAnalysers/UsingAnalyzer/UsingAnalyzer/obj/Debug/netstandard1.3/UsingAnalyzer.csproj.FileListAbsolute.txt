@@ -22,3 +22,16 @@ C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-i
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfo.cs
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.dll
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.pdb
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.deps.json
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.dll
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.pdb
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csprojAssemblyReference.cache
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.Resources.resources
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.GenerateResource.cache
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.CoreCompileInputs.cache
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfoInputs.cache
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfo.cs
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.dll
+D:\Repos\ReadyLab\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.pdb

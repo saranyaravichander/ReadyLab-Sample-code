@@ -1749,7 +1749,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -2217,7 +2217,7 @@
       ]
     },
     "System.Collections.Immutable/1.5.0": {
-      "sha512": "RGxi2aQoXgZ5ge0zxrKqI4PU9LrYYoLC+cnEnWXKsSduCOUhE1GEAAoTexUVT8RZOILQyy1B27HC8Xw/XLGzdQ==",
+      "sha512": "EXKiDFsChZW0RjrZ4FYHu9aW6+P4MCgEDCklsVseRfhoO0F+dXeMSsMRAlVXIo06kGJ/zv+2w1a2uc2+kxxSaQ==",
       "type": "package",
       "path": "system.collections.immutable/1.5.0",
       "files": [
@@ -3393,7 +3393,7 @@
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "Z1UfSF6dlpCdZdxh6LeoGlYH+q6ptG/iiIWgUUeKhE3DbQACmZkU7Sz2nOX0qdHjz72MOdYRbkSJ5Qwl6sZgvg==",
+      "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -5478,23 +5478,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saravich.NORTHAMERICA\\.nuget\\packages\\": {},
+    "C:\\Users\\ansary\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\UsingAnalyzer.csproj",
+      "projectUniqueName": "D:\\Repos\\ReadyLab\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\UsingAnalyzer.csproj",
       "projectName": "UsingAnalyzer",
-      "projectPath": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\UsingAnalyzer.csproj",
-      "packagesPath": "C:\\Users\\saravich.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\obj\\",
+      "projectPath": "D:\\Repos\\ReadyLab\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\UsingAnalyzer.csproj",
+      "packagesPath": "C:\\Users\\ansary\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\ReadyLab\\CustomAnalysers\\UsingAnalyzer\\UsingAnalyzer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\saravich.NORTHAMERICA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ansary\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5502,7 +5502,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://damco-digitalplatform.pkgs.visualstudio.com/_packaging/Damco-Prana/nuget/v3/index.json": {},
+        "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard1.3": {
