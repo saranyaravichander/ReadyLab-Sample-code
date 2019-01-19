@@ -12,3 +12,17 @@ C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer.Vsix\o
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\files.json
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\createTemplateManifests.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\tools\install.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\CommentAnalyzer.vsix
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\CommentAnalyzer.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\bin\Debug\CommentAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\CommentAnalyzer.Vsix.csprojAssemblyReference.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\CommentAnalyzer.Vsix.csproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\CommentAnalyzer.Vsix.csproj.CopyComplete
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\CommentAnalyzer.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\CommentAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\files.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer.Vsix\obj\Debug\createTemplateManifests.cache

@@ -1,13 +1,4 @@
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\bin\Debug\netstandard1.3\AttributeAnalyzer.deps.json
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\bin\Debug\netstandard1.3\AttributeAnalyzer.dll
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\bin\Debug\netstandard1.3\AttributeAnalyzer.pdb
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csprojAssemblyReference.cache
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.Resources.resources
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csproj.GenerateResource.cache
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csproj.CoreCompileInputs.cache
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.AssemblyInfoInputs.cache
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.AssemblyInfo.cs
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.dll
-C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csprojAssemblyReference.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.Resources.resources
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csproj.GenerateResource.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer\obj\Debug\netstandard1.3\AttributeAnalyzer.csproj.CoreCompileInputs.cache

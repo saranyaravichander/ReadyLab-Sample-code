@@ -10,3 +10,6 @@ C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\De
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.AssemblyInfo.cs
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.dll
 C:\Users\ansary\source\repos\VSIXProject1\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.Resources.resources
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.csproj.GenerateResource.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\CommentAnalyzer\CommentAnalyzer\obj\Debug\netstandard1.3\CommentAnalyzer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomAnalysers",
+    "\\CustomAnalysers\\AttributeAnalyzer",
+    "\\CustomAnalysers\\AttributeAnalyzer\\AttributeAnalyzer",
+    "\\CustomAnalysers\\CommentAnalyzer",
+    "\\CustomAnalysers\\CommentAnalyzer\\CommentAnalyzer"
+  ],
+  "SelectedNode": "\\CustomAnalysers\\AttributeAnalyzer\\AttributeAnalyzer\\AttributeAnalyzer.csproj",
+  "PreviewInSolutionExplorer": false
+}

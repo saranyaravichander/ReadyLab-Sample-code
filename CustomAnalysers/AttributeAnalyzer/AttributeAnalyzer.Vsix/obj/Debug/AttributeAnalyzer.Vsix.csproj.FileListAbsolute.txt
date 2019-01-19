@@ -12,3 +12,17 @@ C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer.Vs
 C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
 C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\files.json
 C:\Users\ansary\source\repos\VSIXProject1\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\createTemplateManifests.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\tools\install.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\Analyzer1.vsix
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\AttributeAnalyzer.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\bin\Debug\AttributeAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\AttributeAnalyzer.Vsix.csproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\AttributeAnalyzer.Vsix.csproj.CopyComplete
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\Analyzer1.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\Analyzer1.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\files.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\createTemplateManifests.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\AttributeAnalyzer\AttributeAnalyzer.Vsix\obj\Debug\AttributeAnalyzer.Vsix.csprojAssemblyReference.cache

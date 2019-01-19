@@ -10,3 +10,15 @@ C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\
 C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfo.cs
 C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.dll
 C:\Users\ansary\source\repos\VSIXProject1\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.deps.json
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\bin\Debug\netstandard1.3\UsingAnalyzer.pdb
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.Resources.resources
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.GenerateResource.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfoInputs.cache
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.AssemblyInfo.cs
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.dll
+C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\CustomAnalysers\UsingAnalyzer\UsingAnalyzer\obj\Debug\netstandard1.3\UsingAnalyzer.pdb
