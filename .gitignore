@@ -1,5 +1,17 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-/CustomAnalysers/AttributeAnalyzer/AttributeAnalyzer/obj/Debug/netstandard1.3
+bin
+obj
+/obj
+/UpgradeLog.htm
+/UpgradeLog2.htm
+/UpgradeLog3.htm
+/UpgradeLog4.htm
+/UpgradeLog5.htm
+/.vs/Quickstarts/v15/Server/sqlite3/db.lock
+/.vs/Quickstarts/v15/Server/sqlite3/storage.ide-shm
+/.vs/Quickstarts/v15/Server/sqlite3/storage.ide
+/.vs/Quickstarts/v15/Server/sqlite3/storage.ide-wal
+/.vs/Quickstarts/v15/.suo
+**simulated-device/obj
