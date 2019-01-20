@@ -15,3 +15,14 @@ obj
 /.vs/Quickstarts/v15/Server/sqlite3/storage.ide-wal
 /.vs/Quickstarts/v15/.suo
 **simulated-device/obj
+.vs/Quickstarts/v16/.suo
+.vs/Quickstarts/v16/.suo
+ConfigUpdater/obj/Debug/ConfigUpdater.csproj.CoreCompileInputs.cache
+ConfigUpdater/obj/Debug/ConfigUpdater.csprojAssemblyReference.cache
+ProvisioningProject/obj/Debug/ProvisioningProject.deployproj.FileListAbsolute.txt
+simulated-device/bin/Debug/netcoreapp2.1/simulated-device.dll
+simulated-device/bin/Debug/netcoreapp2.1/simulated-device.pdb
+simulated-device/obj/Debug/netcoreapp2.1/simulated-device.assets.cache
+simulated-device/obj/Debug/netcoreapp2.1/simulated-device.csproj.FileListAbsolute.txt
+simulated-device/obj/Debug/netcoreapp2.1/simulated-device.dll
+simulated-device/obj/Debug/netcoreapp2.1/simulated-device.pdb

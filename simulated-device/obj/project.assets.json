@@ -6655,11 +6655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj",
+      "projectUniqueName": "D:\\ReadyCode\\ReadyLab-Sample-code\\simulated-device\\simulated-device.csproj",
       "projectName": "simulated-device",
-      "projectPath": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj",
+      "projectPath": "D:\\ReadyCode\\ReadyLab-Sample-code\\simulated-device\\simulated-device.csproj",
       "packagesPath": "C:\\Users\\saravich.NORTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\azure-iot-samples-csharp-master\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\obj\\",
+      "outputPath": "D:\\ReadyCode\\ReadyLab-Sample-code\\simulated-device\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

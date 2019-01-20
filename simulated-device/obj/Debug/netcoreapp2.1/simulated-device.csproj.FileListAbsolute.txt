@@ -9,3 +9,14 @@ C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-i
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
 C:\Users\saravich.NORTHAMERICA\Downloads\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+D:\ReadyCode\ReadyLab-Sample-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
