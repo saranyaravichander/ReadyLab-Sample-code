@@ -25,14 +25,19 @@ The 4 steps are :
 5. Build and execute the ConfigUpdater project. This will update the names of the resources in ARM template.
 
 ## Observe and Run custom code analyzers 
-1. Adding Analyzers to the Project
-  i. Open the CustomAnalyzers>Analyzer DLLs Folder
-  ii. Add a reference to the DLL in any of the project in the open Quickstarts.sln where you would like to test it out
-Alternatively, 
-  i. Open the CustomAnalyzers>Analyser VSIXs Folder
-  ii. Double click on the VSIX you would like to try out, this would open the installer and directly install the Analyzer in your IDE     for all projects or solutions you would work on.
-
-2. Open the CustomAnalyzers Folder
+1. Open the containing folder of the **"Quickstarts.sln"**
+2. Navigate to CustomAnalyzers>Analyser VSIXs Folder
+3. Double click on the AttributeAnalyzer.vsix
+4. This would open the VSIX Installer, Selected the Visual Studio 2017 and click Install
+5. Please close the VSIX Installer dialog box and restart your instance of Visual Studio
+6. In Visual Studio go to the Tools>Extension and Updates on the navigation bar at the top
+7. You would see the the AttributeInstaller would be installed
+8. Open the Quickstarts.sln in the Visual Studio instance
+9. Open the file ____
+10. Go to the PostAsync() Method, you would see a green warning indicated for the method
+11. Hover over it and you would see the message "Necessery or its Alternate Attribute is missing"
+12. You would also see a small yellow bulb, Click the arrow button. You would see the message "Add required Attributes"
+13. Clicking this would add the necessary Attribute to the method. Resolve the necessary namespaces.
 
 ## Integrate static code analyzers in Azure DevOps CI/CD Pipeline
 
