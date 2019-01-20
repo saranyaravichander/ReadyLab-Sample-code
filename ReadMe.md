@@ -31,7 +31,7 @@ The 4 steps are :
 4. This would open the VSIX Installer, Selected the Visual Studio 2017 and click Install
 5. Please close the VSIX Installer dialog box and restart your instance of Visual Studio
 6. In Visual Studio go to the Tools>Extension and Updates on the navigation bar at the top
-7. You would see the the AttributeInstaller would be installed
+7. You would see the the AttributeInstaller installed
 8. Open the Quickstarts.sln in the Visual Studio instance
 9. Open the file ____
 10. Go to the PostAsync() Method, you would see a green warning indicated for the method
@@ -40,7 +40,8 @@ The 4 steps are :
 13. Clicking this would add the necessary Attribute to the method. Resolve the necessary namespaces.
 
 ## Integrate static code analyzers in Azure DevOps CI/CD Pipeline
-
+1. Observe the session as the instructor demonstrates integrating code analysers in DevOps pipeline.
+https://docs.microsoft.com/en-us/azure/devops/articles/security-validation-cicd-pipeline?view=vsts 
 
 ## Execute Azure Automation runbook
 
@@ -61,7 +62,7 @@ The 4 steps are :
 
 ## Effectively use Azure Security Center and Azure Advisor
 
-1. Observe as we show you the issues that can be monitored using Azure Advisor and Azure Security Center
+1. Observe as the instructor shows you the issues that can be monitored using Azure Advisor and Azure Security Center
 
 
 
