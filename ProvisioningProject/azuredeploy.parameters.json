@@ -3,25 +3,25 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hubName": {
-      "value": "iothub-sartest5"
+      "value": "iothub-uniquestring"
     },
     "storageName": {
-      "value": "storagesartest5"
+      "value": "storageuniquestring"
     },
     "appServiceName": {
-      "value": "function-sartest5"
+      "value": "function-uniquestring"
     },
     "location": {
       "value": "East US"
     },
     "appServicePlanName": {
-      "value": "appserviceplan-sartest5"
+      "value": "appserviceplan-uniquestring"
     },
     "resourceGroupName": {
-      "value": "labrg-sartest5"
+      "value": "labrg-uniquestring"
     },
     "apphostplan": {
-      "value": "apphostplan-sartest5"
+      "value": "apphostplan-uniquestring"
     }
   }
 }

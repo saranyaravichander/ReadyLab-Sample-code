@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Configuration;
 
-namespace ConfigUpdater
+
+namespace ConfigurationUpdater
 {
     class Program
     {
@@ -30,7 +31,6 @@ namespace ConfigUpdater
                 string output = Newtonsoft.Json.JsonConvert.SerializeObject(jsonObj, Newtonsoft.Json.Formatting.Indented);
                 File.WriteAllText(@"..\..\..\ProvisioningProject\azuredeploy.parameters.json", output);
             }
-
         }
     }
 }
