@@ -20,9 +20,9 @@ The 4 steps are :
 
 1. Open the solution **"Quickstarts.sln"** on your desktop, in Visual Studio
 2. Build the solution
-3. Open App.config in the path Quickstarts/ConfigUpdater/
+3. Open App.config in the path Quickstarts/ConfigurationUpdater/
 4. Under appsettings ,update the value of "aliasOrUniquevalue"  with your alias or a unique value < add key="aliasOrUniquevalue" value="xxxx"/>
-5. Build and execute the ConfigUpdater project. This will update the names of the resources in ARM template.
+5. Build and execute the ConfigurationUpdater project. This will update the names of the resources in ARM template.
 
 ## Observe and Run custom code analyzers 
 1. Open the containing folder of the **"Quickstarts.sln"**
