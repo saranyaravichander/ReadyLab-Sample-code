@@ -15,6 +15,7 @@ The 4 steps are :
 
 4. Leveraging Azure Monitor, Azure Advisor, Azure Security to monitor the resources in action.
 
+Solution : https://github.com/saranyaravichander/ReadyLab-Sample-code 
 
 # Steps :
 
